@@ -51,18 +51,17 @@ OBJECT MEASURMENT APP/
 Install Dependencies
 
 
-2. bash
-```npm install```
+2. ```bash
+   npm install
 Run the Development Server
 
-3. bash
-```npm run dev```
+4. ```bash
+   npm run dev
 The app will be available at: http://localhost:5173
 
-4. Build for Production
-
-bash
-```npm run build```
+6. Build for Production
+```bash
+npm run build'''
 
 ## Usage
 Place a reference object in the frame for calibration.
@@ -78,6 +77,7 @@ Support both Metric (cm) and Imperial (inch) units.
 
 Improve accuracy with more advanced AI models.
 
-📊 Generate PDF reports of measurements.
+Generate PDF reports of measurements.
+
 
 
