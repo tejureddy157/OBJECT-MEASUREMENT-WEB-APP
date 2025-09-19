@@ -3,7 +3,6 @@
 An AI-powered web application to measure objects in real-time using computer vision.  
 Users can capture images from their camera or upload existing images, and the system will automatically detect objects and provide their dimensions.
 
----
 <img width="1735" height="920" alt="Image" src="https://github.com/user-attachments/assets/e0021b99-8316-4f44-abd0-f43437c60568" />
 
 ## Features
@@ -13,16 +12,12 @@ Users can capture images from their camera or upload existing images, and the sy
 - **Dimensional Analysis** – Get object width and height in metric units (cm).
 - **Download Results** – Save the measurement results as an image report.
 
----
-
 ## Tech Stack
 - **Frontend**: React + Vite + Tailwind CSS  
 - **Backend / AI**: TensorFlow.js / ONNX / TFLite (depending on model used)  
 - **Computer Vision**: Pre-trained object detection + calibration system  
 
----
-
-## 📂 Project Structure
+## Project Structure
 OBJECT MEASURMENT APP/
 ├── dist/ # Production build
 ├── node_modules/ # Dependencies
@@ -59,25 +54,21 @@ Run the Development Server
    npm run dev
 The app will be available at: http://localhost:5173
 
-6. Build for Production
-```bash
-npm run build'''
+6. ```bash
+   npm run build
+Build for Production
 
-## Usage
-Place a reference object in the frame for calibration.
-
-The system automatically detects objects and displays their dimensions.
-
-Download results as a report for future use.
+### Usage
+--Place a reference object in the frame for calibration.
+--The system automatically detects objects and displays their dimensions.
+--Download results as a report for future use.
 
 ## Future Enhancements
-Add support for multiple reference objects (credit card, A4 paper,etc.)
+--Add support for multiple reference objects (credit card, A4 paper,etc.)
+--Support both Metric (cm) and Imperial (inch) units.
+--Improve accuracy with more advanced AI models.
+--Generate PDF reports of measurements.
 
-Support both Metric (cm) and Imperial (inch) units.
-
-Improve accuracy with more advanced AI models.
-
-Generate PDF reports of measurements.
 
 
 
