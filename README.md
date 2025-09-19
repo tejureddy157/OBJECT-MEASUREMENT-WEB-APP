@@ -4,6 +4,7 @@ An AI-powered web application to measure objects in real-time using computer vis
 Users can capture images from their camera or upload existing images, and the system will automatically detect objects and provide their dimensions.
 
 ---
+<img width="1735" height="920" alt="Image" src="https://github.com/user-attachments/assets/e0021b99-8316-4f44-abd0-f43437c60568" />
 
 ## Features
 - **Capture or Upload Images** – Take pictures directly from your webcam or upload an image.
@@ -78,4 +79,5 @@ Support both Metric (cm) and Imperial (inch) units.
 Improve accuracy with more advanced AI models.
 
 📊 Generate PDF reports of measurements.
+
 
