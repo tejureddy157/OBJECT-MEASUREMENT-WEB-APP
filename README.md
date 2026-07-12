@@ -2,35 +2,36 @@
 
 # 📏 AI Object Measurement
 
-### **Measure Real-World Objects with Artificial Intelligence**
+### **Measure Real-World Objects with the Power of Artificial Intelligence**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=950&lines=Computer+Vision+Powered+Measurements;Real-Time+Object+Dimension+Detection;AI+Meets+Precision;Capture.+Measure.+Analyze.;Built+with+TensorFlow+%26+React"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Computer+Vision+Powered+Measurements;Real-Time+Object+Dimension+Detection;Capture+%7C+Upload+%7C+Measure;AI+Precision+for+Everyday+Objects;Smart+Measurement+Made+Simple"/>
 
 <br>
 
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-Powered-00B4D8?style=for-the-badge)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Open_Website-0EA5E9?style=for-the-badge)](https://object-measurement-web-app.vercel.app)
 
-![Computer Vision](https://img.shields.io/badge/Computer-Vision-3A86FF?style=for-the-badge)
-
+![AI](https://img.shields.io/badge/Artificial_Intelligence-Enabled-8B5CF6?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-Real_Time-2563EB?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-TypeScript-61DAFB?style=for-the-badge\&logo=react\&logoColor=white)
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Lite-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-
-![Vite](https://img.shields.io/badge/Vite-Fast-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
-
-<img src="https://komarev.com/ghpvc/?username=tejureddy157&label=Visitors&style=for-the-badge&color=00B4D8"/>
+![TensorFlow](https://img.shields.io/badge/TensorFlow.js-AI-FF6F00?style=for-the-badge\&logo=tensorflow)
 
 </div>
 
 ---
 
-# 🎯 About the Project
+# 🚀 Overview
 
-**AI Object Measurement** is an intelligent computer vision application that accurately measures the dimensions of real-world objects using Artificial Intelligence.
+**AI Object Measurement** is a modern Computer Vision web application that accurately measures the dimensions of real-world objects using Artificial Intelligence.
 
-Instead of manually measuring objects with traditional tools, users simply capture or upload an image containing a reference object. The AI automatically detects the object, calibrates the image, and calculates precise measurements.
+Instead of using a traditional measuring tape, users simply upload an image or capture one using their webcam. The application detects the object, calibrates the scale using a known reference object, and instantly calculates its real-world dimensions.
 
-The application combines **Computer Vision**, **Deep Learning**, and **Image Processing** to provide an intuitive, fast, and accurate measuring experience directly in the browser.
+This project demonstrates the practical application of **Computer Vision**, **Artificial Intelligence**, and **Image Processing** in solving everyday measurement problems.
+
+---
+
+# 🌐 Live Application
+
+## 🔗 https://object-measurement-web-app.vercel.app
 
 ---
 
@@ -44,321 +45,324 @@ The application combines **Computer Vision**, **Deep Learning**, and **Image Pro
 
 ---
 
-# ✨ Features
+# ✨ Key Features
 
 ## 📷 Capture or Upload Images
 
-Use your webcam to capture images instantly or upload existing images for measurement.
+Choose between:
+
+* 📸 Live Camera Capture
+* 🖼 Upload Existing Images
 
 ---
 
 ## 🤖 AI Object Detection
 
-Automatically detects objects using computer vision models without manual intervention.
+Automatically identifies the target object using advanced Computer Vision models.
 
 ---
 
 ## 📏 Smart Calibration
 
-Use a reference object such as:
-
-* 🪙 Coin
-* 💳 Credit Card
-* 📄 A4 Paper
-
-to calibrate the image and achieve accurate measurements.
+Uses a reference object (such as a coin or known object) to calculate accurate scaling.
 
 ---
 
-## 📐 Dimension Analysis
+## 📐 Accurate Dimension Measurement
 
-Instantly calculate:
+Instantly calculates:
 
 * Width
 * Height
-* Object Boundaries
-* Scale Ratio
-
-Measurements are displayed in **centimeters (cm)**.
+* Real-world Size (Centimeters)
 
 ---
 
-## 💾 Export Results
+## 💾 Download Results
 
-Download measurement results as an annotated image for documentation and sharing.
-
----
-
-## ⚡ Real-Time Processing
-
-Fast AI inference enables near real-time object detection and dimension estimation.
+Export the measurement result as an annotated image for future reference.
 
 ---
 
-# 🧠 AI Workflow
+## ⚡ Fast Processing
 
-```text
-📷 Capture / Upload Image
-            │
-            ▼
-🖼 Image Preprocessing
-            │
-            ▼
-🤖 Object Detection Model
-            │
-            ▼
+Optimized AI inference provides measurements within seconds.
+
+---
+
+# 🔬 How It Works
+
+```text id="9ddrta"
+📸 Capture / Upload Image
+
+          │
+
+          ▼
+
+🧠 AI Object Detection
+
+          │
+
+          ▼
+
 📏 Reference Calibration
-            │
-            ▼
-📐 Dimension Calculation
-            │
-            ▼
-📊 Measurement Visualization
-            │
-            ▼
-💾 Download Report
+
+          │
+
+          ▼
+
+📐 Scale Calculation
+
+          │
+
+          ▼
+
+📊 Dimension Analysis
+
+          │
+
+          ▼
+
+💾 Download Results
 ```
 
 ---
 
-# 🚀 Technology Stack
+# 🛠 Technology Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,tensorflow,git,github,vscode"/>
 
 </div>
 
-| Layer               | Technology                             |
-| ------------------- | -------------------------------------- |
-| 🎨 Frontend         | React + TypeScript                     |
-| ⚡ Build Tool        | Vite                                   |
-| 🎨 Styling          | Tailwind CSS                           |
-| 🤖 AI Models        | TensorFlow.js / TensorFlow Lite / ONNX |
-| 👁 Computer Vision  | Object Detection + Image Calibration   |
-| 🧮 Image Processing | Dimension Scaling Algorithms           |
+| Technology                       | Purpose               |
+| -------------------------------- | --------------------- |
+| ⚛ React                          | User Interface        |
+| 🔷 TypeScript                    | Type Safety           |
+| ⚡ Vite                           | Build Tool            |
+| 🎨 Tailwind CSS                  | Styling               |
+| 🤖 TensorFlow.js / ONNX / TFLite | AI Model              |
+| 👁 Computer Vision               | Object Detection      |
+| 📐 Calibration Algorithm         | Dimension Calculation |
+
+---
+
+# 🏗 System Workflow
+
+```text id="7ttoit"
+User
+
+↓
+
+Capture Image
+
+↓
+
+AI Detection
+
+↓
+
+Reference Object
+
+↓
+
+Scale Calibration
+
+↓
+
+Object Measurement
+
+↓
+
+Result Generation
+
+↓
+
+Download Report
+```
 
 ---
 
 # 📂 Project Structure
 
-```text
+```text id="mzk6yb"
 object-measurement-app/
 
 ├── dist/
 ├── node_modules/
 
 ├── src/
+
+│   ├── components/
+
+│   ├── hooks/
+
+│   ├── types/
+
+│   ├── utils/
+
+│   ├── App.tsx
+
+│   ├── main.tsx
+
+│   └── index.css
+
 │
-├── components/
-├── hooks/
-├── types/
-├── utils/
-│
-├── App.tsx
-├── main.tsx
-├── index.css
-│
-├── index.html
+
+├── public/
+
 ├── package.json
+
 ├── vite.config.ts
+
 ├── tailwind.config.js
+
 ├── tsconfig.json
+
 └── README.md
 ```
 
 ---
 
-# 🚀 Getting Started
+# 🚀 Installation
 
 ### Clone Repository
 
-```bash
+```bash id="18n3bm"
 git clone https://github.com/tejureddy157/object-measurement-app.git
 ```
 
----
+### Navigate to Project
 
-### Navigate
-
-```bash
+```bash id="k0g06o"
 cd object-measurement-app
 ```
 
----
-
 ### Install Dependencies
 
-```bash
+```bash id="3hj1hx"
 npm install
 ```
 
----
-
 ### Start Development Server
 
-```bash
+```bash id="8cz1i5"
 npm run dev
 ```
 
-Application runs on
+Open your browser:
 
-```
+```text id="nb21wj"
 http://localhost:5173
 ```
 
----
-
 ### Production Build
 
-```bash
+```bash id="uxmhav"
 npm run build
 ```
 
 ---
 
-# 🖥 How It Works
+# 📋 Usage Guide
 
 ### Step 1
 
-📷 Capture or upload an image.
-
-↓
+Capture an image using your webcam or upload an existing image.
 
 ### Step 2
 
-🪙 Place a reference object for calibration.
-
-↓
+Place a reference object inside the frame for calibration.
 
 ### Step 3
 
-🤖 AI detects the target object.
-
-↓
+Allow the AI model to detect the object automatically.
 
 ### Step 4
 
-📐 Dimensions are calculated automatically.
-
-↓
+View the calculated dimensions instantly.
 
 ### Step 5
 
-💾 Download measurement results.
+Download the measurement report.
 
 ---
 
 # 🎯 Applications
 
-🏭 Manufacturing
+📦 Package Dimension Measurement
 
-📦 Packaging
+📚 Educational Projects
+
+🏭 Manufacturing
 
 📐 Engineering
 
-🏗 Construction
-
 🛒 E-Commerce Product Measurement
 
-📚 Education
+🏠 Interior Planning
 
-🔬 Research
-
-🧪 Laboratory Applications
+🔬 Research & Prototyping
 
 ---
 
-# 🌟 Why This Project?
+# 🚀 Future Improvements
+
+✨ Multiple Reference Objects
+
+📏 Metric & Imperial Units
+
+🤖 More Accurate AI Models
+
+📄 PDF Report Generation
+
+📊 Measurement History
+
+☁ Cloud Storage
+
+📱 Mobile Application
+
+🌍 Multi-language Support
+
+🎥 Real-Time Video Measurement
+
+---
+
+# 💡 Why This Project?
 
 ✔ AI-Powered Measurement
 
-✔ Accurate Object Detection
+✔ Real-Time Processing
 
-✔ Browser-Based Solution
-
-✔ No Specialized Hardware Required
-
-✔ Fast Image Processing
+✔ Computer Vision Integration
 
 ✔ User-Friendly Interface
 
-✔ Real-Time Results
+✔ Accurate Scaling
 
-✔ Modern Responsive Design
+✔ Downloadable Results
 
----
-
-# 🚀 Future Enhancements
-
-* 📦 Multiple Object Detection
-* 📄 PDF Report Generation
-* 📏 Metric & Imperial Units
-* 🤖 YOLO-Based Detection Models
-* ☁ Cloud Storage Integration
-* 📱 Mobile Camera Optimization
-* 🎥 Live Video Measurement
-* 📊 Measurement History Dashboard
-* 🌐 Multi-Language Support
+✔ Practical Real-World Application
 
 ---
 
-# 📊 GitHub Analytics
+# 👨‍💻 Developer
 
-<p align="center">
+## **Tejaswini Reddy**
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tejureddy157&show_icons=true&theme=algolia&hide_border=true"/>
+**Artificial Intelligence & Machine Learning Engineer**
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tejureddy157&theme=algolia&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tejureddy157&theme=react-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/tejureddy157">
-
-<img src="https://img.shields.io/badge/GitHub-0B132B?style=for-the-badge&logo=github&logoColor=00B4D8"/>
-
-</a>
-
-<a href="https://linkedin.com">
-
-<img src="https://img.shields.io/badge/LinkedIn-0B132B?style=for-the-badge&logo=linkedin&logoColor=00B4D8"/>
-
-</a>
-
-<a href="mailto:your-email@example.com">
-
-<img src="https://img.shields.io/badge/Email-0B132B?style=for-the-badge&logo=gmail&logoColor=00B4D8"/>
-
-</a>
-
-</p>
+Passionate about building intelligent web applications that combine AI, computer vision, and automation to solve real-world challenges.
 
 ---
 
 <div align="center">
 
-## 💡 *"Measure with Intelligence, Build with Precision."*
-
-### 📏 AI Object Measurement
-
-**Computer Vision • Artificial Intelligence • Precision Engineering**
+## 🚀 **Measure Smarter. Build Faster. Innovate with AI.**
 
 ⭐ **If you found this project useful, consider giving it a Star!**
+
+Made with ❤️ using **Artificial Intelligence**, **Computer Vision**, and **Modern Web Technologies**.
 
 </div>
